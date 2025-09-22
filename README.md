@@ -1,3 +1,15 @@
+**cloud-security-monitoring-project**/
+│── README.md
+│── code/            # instead of scripts/
+│    └── fetch_logs.py
+│    └── analyze_findings.py
+│── screenshots/
+│    └── guardduty_alert.png
+│    └── securityhub_dashboard.png
+│── reports/
+
+
+
 # AWS Security Monitoring Dashboard
 
 ## Overview
