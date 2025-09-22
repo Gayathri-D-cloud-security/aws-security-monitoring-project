@@ -44,5 +44,5 @@ It monitors AWS accounts for threats, analyzes logs, and visualizes incidents.
 ![GuardDuty Alert](screenshots/guardduty_alert.png)
 ![Security Hub Dashboard](screenshots/securityhub_dashboard.png)
 
-## 🧑‍💻 Author
+## Author
 Gayathri Dhasari Venkat Raja
