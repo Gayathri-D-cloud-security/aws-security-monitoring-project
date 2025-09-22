@@ -2,7 +2,7 @@
 ```text
 cloud-security-monitoring-project/
 │── README.md
-│── code/
+│── scripts/
 │    └── fetch_logs.py
 │    └── analyze_findings.py
 │── screenshots/
