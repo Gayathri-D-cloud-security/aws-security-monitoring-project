@@ -1,6 +1,8 @@
-**cloud-security-monitoring-project**/
+
+```text
+cloud-security-monitoring-project/
 │── README.md
-│── code/            # instead of scripts/
+│── code/
 │    └── fetch_logs.py
 │    └── analyze_findings.py
 │── screenshots/
