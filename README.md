@@ -41,11 +41,10 @@ It monitors AWS accounts for threats, analyzes logs, and visualizes incidents.
 - Power BI Dashboard created to visualize incidents
 
 ## Screenshots
-CloudTrail is enabled to log all API calls in all regions to the S3 bucket "g3-security-logs-bucket"
-screenshots/Cloudtrail-logging.png
-
-![GuardDuty Alert](screenshots/guardduty_alert.png)
-![Security Hub Dashboard](screenshots/securityhub_dashboard.png)
+!CloudTrail is enabled to log all API calls in all regions to the S3 bucket "g3-security-logs-bucket"
+(screenshots/Cloudtrail-logging.png)
+!Enabled GuardDuty to monitor AWS environment for threats.(screenshots/guardduty_alert.png)
+!Security Hub aggregates findings from GuardDuty and provides centralized security visibility.(screenshots/securityhub_dashboard.png)
     
 ## Author
 Gayathri Dhasari Venkat Raja
