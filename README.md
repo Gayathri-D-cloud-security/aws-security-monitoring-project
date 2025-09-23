@@ -42,7 +42,7 @@ It monitors AWS accounts for threats, analyzes logs, and visualizes incidents.
 
 ## Screenshots
 CloudTrail is enabled to log all API calls in all regions to the S3 bucket "g3-security-logs-bucket"
-<img width="3115" height="1117" alt="image" src="https://github.com/user-attachments/assets/4242041a-8dd1-464a-b477-844911977786" />
+screenshots/Cloudtrail-logging.png
 
 ![GuardDuty Alert](screenshots/guardduty_alert.png)
 ![Security Hub Dashboard](screenshots/securityhub_dashboard.png)
